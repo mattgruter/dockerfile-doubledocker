@@ -2,6 +2,9 @@
 
 Run [Docker](http://docker.io/) inside Docker
 
+Link: [mattgruter/doubledocker](https://registry.hub.docker.com/u/mattgruter/doubledocker/)
+
+
 ## Permissions
 This image needs privileged permissions. Don't forget to use the `--privileged` command line flag.
 
